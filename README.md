@@ -1,4 +1,5 @@
 # Exploring the Enhancement of Financial Report Retrieval with KG RAG
+Team Member: Chenchen Zhang, Jiaxin Yan
 ## Background
 This research utilizes Knowledge Graph-enhanced Retrieval-Augmented Generation (KG RAG) technology aimed at enhancing the question-answering capabilities of financial document models. By comparing KG RAG with baseline RAG models, the study critically evaluates and seeks to improve the performance of these systems in terms of information retrieval accuracy.
 
